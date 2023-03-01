@@ -11,13 +11,12 @@ body {
 
 .header {
     padding: 20px;
-    margin-left: 20px;
-    float: right;
+    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
     color: #ffffff;
-    font-size: 20px;
-    flex-wrap: wrap;
+    
+    
 }
 
 .header h2 {
