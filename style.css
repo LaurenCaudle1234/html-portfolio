@@ -11,33 +11,29 @@ body {
 
 .header {
     padding: 20px;
-
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
-    color: #ffffff;
-
-    
+    color: #ffffff; 
 }
 
 .header h1 {
     display: inline;
 }
 
-.header h2 {
-    font-size: 100px;
+h2 {
+    font-size: 40px;
 }
 
-.header h3 {
-    font-size: 100px;
+h3 {
+    font-size: 40px;
 }
 
-.header h4 {
-    font-size: 100px;
+h4 {
+    font-size: 40px;
 }
 
 nav {
     float: right;
-
 }
 
 li {
