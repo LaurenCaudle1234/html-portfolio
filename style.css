@@ -21,15 +21,15 @@ body {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h4 {
-    font-size: 40px;
+    font-size: 30px;
     display: inline;
 }
 
@@ -41,5 +41,11 @@ li {
     display: inline;
 }
 
+.side-bar { display:flex}
 
+@media screen and (max-width: 800px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
 
