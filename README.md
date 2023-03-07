@@ -1,5 +1,6 @@
 # html-portfolio
-<!-- image -->
+![ScreenShot](./Assets/Poster.jpg)
+
 What was my motivation?
 
 My motivation was to create an HTML using the following Acceptance Criteria to ensure my potential boss believes I am a good fit for the position. The Acceptance Criteria to do so is as follows:

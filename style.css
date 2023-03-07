@@ -21,6 +21,7 @@ body {
 
 h2 {
     font-size: 20px;
+    
 }
 
 h3 {
@@ -39,7 +40,30 @@ li {
     display: inline;
 }
 
-.side-bar {display:flex}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card {
+    display: flex;
+    min-height: 150px;
+    padding: 0 0 20px 0;
+    max-height: 350px;
+    margin: 2px;
+}
+
+
+
+.side-bar {
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 0;
+    margin: 25px 0;
+}
+
 
 @media screen and (max-width: 800px) {
     body {
