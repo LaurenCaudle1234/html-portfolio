@@ -1,5 +1,7 @@
 # html-portfolio
-![ScreenShot](./Assets/Poster.jpg)
+![ScreenShot](./Assets/Project.png)
+
+<a href="https://laurencaudle1234.github.io/html-portfolio/">Project</a>
 
 What was my motivation?
 

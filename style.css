@@ -53,8 +53,6 @@ li {
     margin: 2px;
 }
 
-
-
 .side-bar {
     display: flex; 
     flex-direction: row; 
@@ -64,10 +62,9 @@ li {
     margin: 25px 0;
 }
 
-
 @media screen and (max-width: 800px) {
     body {
-      background-color: lightgreen;
+      background-color: gray;
     }
   }
 
